@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Memphisorlando';
+    src: url(fonts\DancingScript-VariableFont_wght.ttf);
+}
+
+
+body{
+    background-color: #ffcbcb;
+} 
+ul{
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 50px;
+}
+.point, .prip{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
